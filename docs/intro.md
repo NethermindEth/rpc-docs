@@ -1,7 +1,7 @@
 ---
 slug: /
 sidebar_position: 1
-title: Introduction
+title: Getting started - Free RPC
 ---
 
 # Nethermind's RPC Service for Starknet builders

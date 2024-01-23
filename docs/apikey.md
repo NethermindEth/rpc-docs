@@ -1,10 +1,22 @@
 ---
 slug: /apikey
 sidebar_position: 3
-title: API key
+title: Using your API key
 ---
 
-# Passing your API key
+# Using your API key
+
+## Getting a key
+
+To get an API key:
+
+1. Sign in at https://voyager.online/
+1. Go to `Services` -> `RPC`
+1. Click the `Create new +` button
+1. Name your key
+1. Copy the key value
+
+## Requests
 
 You may pass your API key in a header or in the query string.
 
