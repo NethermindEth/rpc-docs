@@ -1,12 +1,12 @@
 ---
 slug: /endpoints
 sidebar_position: 2
-title: Endpoints
+title: Paid endpoints
 ---
 
-# Endpoints
+# Paid endpoints
 
-Nethermind's endpoints for Starknet RPC are as follows.
+Nethermind's paid endpoints for Starknet RPC are as follows.
 
 #### Mainnet
 
