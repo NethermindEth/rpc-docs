@@ -13,7 +13,7 @@ https://free-rpc.nethermind.io/mainnet-juno/
 ```
 
 ```
-https://free-rpc.nethermind.io/goerli-juno/
+https://free-rpc.nethermind.io/sepolia-juno/
 ```
 
 Try this.

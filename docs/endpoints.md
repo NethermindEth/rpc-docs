@@ -20,27 +20,15 @@ https://rpc.nethermind.io/mainnet-juno/
 https://rpc.nethermind.io/sepolia-juno/
 ```
 
-#### Integration
+#### Integration (Sepolia)
 
 ```
 https://rpc.nethermind.io/integration-sepolia-juno/
 ```
 
-## Deprecated endpoints
+## Deprecated networks 
 
-The ecosystem is moving off `Goerli` and onto `Sepolia` at the moment.
-
-#### Goerli
-
-```
-https://rpc.nethermind.io/goerli-juno/
-```
-
-#### Integration (Goerli)
-
-```
-https://rpc.nethermind.io/integration-goerli-juno/
-```
+The ecosystem moved from `Goerli` onto `Sepolia`.
 
 ## Schemes
 
